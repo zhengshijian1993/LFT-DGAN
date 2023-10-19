@@ -1,0 +1,18 @@
+
+# dataset info
+dataset_name: "train"
+dataval_name: "val"
+dataset_path: "/home/zlh/data/zsj/data/UIBE"
+
+# image info
+chans: 3
+im_width: 256
+im_height: 256
+
+# other params
+val_interval: 1000 # steps
+ckpt_interval: 20  # epochs
+
+
+
+ 
